@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SeaFood</string>
+    <string name="hallo_tommy">Hallo, Tommy\nWhat food you want today?</string>
+    <string name="Appetizer">Appetizer</string>
+    <string name="CourseA">149 Course</string>
+    <string name="MainDish">Main Dish</string>
+    <string name="CourseB">112 Course</string>
+    <string name="Desserts">Desserts</string>
+    <string name="CourseC">150 Course</string>
+    <string name="popular_food">Popular Food</string>
+    <string name="show_all">Show all</string>
+    <string name="foodname1">Chicken Teriyaki Sauce Marinade</string>
+    <string name="randomnomber1">( 4016 )</string>
+    <string name="favorite">Favorite</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="foodname4">Mushroom Pasta Aglio</string>
+    <string name="price">Rp 142.500</string>
+    <string name="time">1 minute ago</string>
+    <string name="pesan">Pesan</string>
+    <string name="notif1">Cheft creat your order</string>
+    <string name="waktu1">9:41</string>
+    <string name="notif2">Your order was recieve by cheft and on review</string>
+    <string name="settings">Settings</string>
+    <string name="emails">Email address</string>
+    <string name="contactdetails">Contact Details</string>
+    <string name="phones">Phone Number</string>
+    <string name="adresss">Residential Address</string>
+    <string name="securitysettings">Security Settings</string>
+    <string name="resets">Password Reset</string>
+    <string name="pins">Face ID and PIN</string>
+    <string name="appsettings">App Settings</string>
+    <string name="notifs">Notifications</string>
+    <string name="abouts">About</string>
+    <string name="foodname2">Soup Mushrom Specials</string>
+    <string name="foodname3">Smoked Chicken</string>
+    <string name="credit">Aplikasi dibuat oleh</string>
+    <string name="saya"><a href="https://www.instagram.com/galihtrisna88/">Galih Trisna</a></string>
+    <string name="credit2"><![CDATA[UI & UX dibuat oleh]]></string>
+    <string name="bukansaya"><a href="https://www.figma.com/@mtommyp14">Tommy Prasetyo</a></string>
+</resources>
